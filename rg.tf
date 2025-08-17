@@ -25,7 +25,7 @@ tenant_id="7597b8dc-1559-4285-901d-856b7ac20009"
 subscription_id="6babc3f8-793c-4200-9aa3-51e8d33ff572"
 }
 variable "rgname" {
-  default = "terraformrgkavi123"
+  default = "terraformrgkavi1234"
 }
 variable "location" {
   default = "West US 3"
